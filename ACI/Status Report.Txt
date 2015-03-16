@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Can_Transceiver.PcbDoc]
+   Generated File[Can_Transceiver.TXT]
+   Generated File[Can_Transceiver.LDP]
+   Generated File[Can_Transceiver.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:42:10 On 16.03.2015
